@@ -25,7 +25,7 @@
         <div class="col-lg-6 text-center">
             <? /*= $serialnum !== null ? var_dump($serialnum) : " ";*/ ?>
             <form id="ajax_form2" method="post" action="">
-                <h4>ВВЕДІТЬ ПОВІДОМЛЕННЯ ДЛЯ ДЕШИФРУВАННЯ</h4><br/>
+                <h4>ВВЕДІТЬ ПОВІДОМЛЕННЯ ДЛЯ РОЗШИФРУВАННЯ</h4><br/>
                 <input id="text2" type="text" name="messagetodecrypt"><br/>
                 <button id="decrypt" name="submitdecrypt">Розшифрувати</button>
             </form>
